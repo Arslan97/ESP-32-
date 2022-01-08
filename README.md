@@ -1,4 +1,4 @@
 # ESP-32-
 
-controlling 7- segment counter by webserver to increase, decrease and reset it and
+controlling a 7- segment counter by webserver to increase, decrease and reset it and
 display its result using esp32 with micro python language.
